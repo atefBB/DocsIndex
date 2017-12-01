@@ -1,2 +1,2 @@
-# DocsIndex
-application for indexation documents
+# DocIndex
+Application for documents indexation
